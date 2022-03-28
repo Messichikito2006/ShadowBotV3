@@ -1,12 +1,3 @@
-let fs = require('fs')
-let fetch = require('node-fetch')
-let moment = require('moment-timezone')
-let path = require('path')
-let util = require('util') 66
-let handler = async (m, { conn, usedPrefix }) => {
-let pp = './E7aUxN5XEAY2Kr1.jpg'
-let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-let username = conn.getName(who)
 let handler = async m => m.reply(`
 
 
