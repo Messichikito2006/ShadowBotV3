@@ -20,10 +20,10 @@ let menu =`
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: Bruno Sobrino* 
-║➤ *Numero del creador:* *wa.me/17722386341 (No Bot)*
+║➤ *Numero del creador:* *5493491456806 (No Bot)*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
-║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
-║➤ *Numero del Sub Bot oficial:* *wa.me/5219992095479*
+║➤ *Numero del Bot oficial:* *wa.me/5493491456806*
+║➤ *Numero del Sub Bot oficial:* *wa.me/5493491456806*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
