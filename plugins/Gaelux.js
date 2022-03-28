@@ -9,7 +9,7 @@ let handler = async m => m.reply(`
 
 🎀𝕸𝖎 𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒:  https://instagram.com/soygaelux?utm_medium=copy_link
 
-⭕𝘾𝙖𝙣𝙖𝙡𝙚𝙨:
+🔷𝘾𝙖𝙣𝙖𝙡𝙚𝙨:
         
  🔸𝕋𝕙𝕖𝔾𝕒𝕖𝕝𝕦𝕩: https://youtube.com/c/TheGaelux
 
@@ -23,7 +23,7 @@ Gracias por su apoyo!! :D
 
 `.trim()) 
 handler.help = ['gaelux']
-handler.tags = ['gaelux']
+handler.tags = ['gael']
 handler.command = /^gaelux$/i
 
 module.exports = handler
